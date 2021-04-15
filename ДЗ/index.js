@@ -56,3 +56,9 @@ let heightC=10
 let dC=4
 let v=3.14*10*4
 console.log(v)
+
+// 6 задание
+// let n=3
+// let m=4
+// Math.pow=n+m
+// console.log(Math.pow)
